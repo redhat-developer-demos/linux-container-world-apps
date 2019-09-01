@@ -1,0 +1,12 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.0",
+  "description": "A demo hello world",
+  "main": "hello.js",
+  "repository": "https://github.com/redhat-developer-demos/openshift-basics-apps",
+  "author": "Red Hat Devx",
+  "license": "MIT",
+  "scripts": {
+    "start": "node hello.js"
+  }
+}
